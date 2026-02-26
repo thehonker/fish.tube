@@ -1,2 +1,1 @@
-# fish.tube
-get tubed
+# ***[get tubed](https://fish.tube)***
